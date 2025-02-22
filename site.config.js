@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Optlab 연구원",
     bio: "",
     email: "toritori3434@naver.com",
-    linkedin: "",
+    linkedin: "morethanlog",
     github: "kimbamtol",
     instagram: "",
   },
