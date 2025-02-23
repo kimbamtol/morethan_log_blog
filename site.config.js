@@ -3,7 +3,7 @@ const CONFIG = {
   profile: {
     name: "밤톨이 형아",
     image: "/tori.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Optlab 연구원",
+    role: "",
     bio: "",
     email: "toritori3434@naver.com",
     linkedin: "morethanlog",
@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://mtoritori3434.vercel.app",
+  link: "https://toritori3434.vercel.app",
   since: 2025, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
