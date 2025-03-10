@@ -10,5 +10,6 @@ module.exports = {
       { userAgent: 'Googlebot', allow: '/' },
       { userAgent: 'Bingbot', allow: '/' }
     ],
+    sitemap: 'https://toritori3434.vercel.app/sitemap-0.xml', // sitemap.xml 대신 sitemap-0.xml 사용
   },
 };
