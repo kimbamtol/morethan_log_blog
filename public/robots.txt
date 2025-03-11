@@ -10,8 +10,6 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-# Host
-Host: https://toritori3434.vercel.app
 
 # Sitemaps
 Sitemap: https://toritori3434.vercel.app/sitemap-0.xml
